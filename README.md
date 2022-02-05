@@ -1,4 +1,4 @@
-![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
+![banner](https://user-images.githubusercontent.com/59689359/152651975-5307dfb4-6ce9-4b14-b927-5298d11a0ef3.png)
 
 ## Hi, I am Khaled Bellameche! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true"><img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/raw/master/coding.gif?raw=true" width="408" height="318" style="max-width: 100%;"></a>
